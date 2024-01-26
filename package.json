@@ -1,5 +1,5 @@
 {
-  "name": "type-react",
+  "name": "react-template",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,6 @@
     "@types/node": "^16.18.74",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
-    "primereact": "^10.3.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
